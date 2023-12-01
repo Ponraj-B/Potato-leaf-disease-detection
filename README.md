@@ -3,3 +3,8 @@ _This is  a machine learning project, it will identify the diseases from potato 
 ---
 # Google colab link 👇
 [Potato leaf disease detection](https://colab.research.google.com/drive/1EAKchuOydE453bqxjVsU1Ka51XjXrKeq#scrollTo=sYaXUY588Li5)
+---
+# **Result**
+![training and validation accuracy](C:\Users\ponra\Pictures\Screenshots\Result.png)
+![Result](C:\Users\ponra\Pictures\Screenshots\training and validation accuracy.png)
+
