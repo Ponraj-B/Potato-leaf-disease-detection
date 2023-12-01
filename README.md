@@ -6,5 +6,6 @@ _This is  a machine learning project, it will identify the diseases from potato 
 ---
 # **Result**
 ![training and validation accuracy](C:\Users\ponra\Pictures\Screenshots\Result.png)
-![Result](C:\Users\ponra\Pictures\Screenshots\training and validation accuracy.png)
+![Result](C:\Users\ponra\Pictures\Screenshots\training_and_validation_accuracy.png)
+
 
